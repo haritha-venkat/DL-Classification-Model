@@ -30,15 +30,6 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: HARITHA SHREE.V
-
-### Register Number: 212222230046
-
-```python
-
-```
-
-### Dataset Information
 ## RESULT
 
 Thus, a neural network classification model was successfully developed and trained using PyTorch.
